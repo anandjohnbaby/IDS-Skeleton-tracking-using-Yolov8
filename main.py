@@ -12,10 +12,10 @@ from ultralytics.utils.plotting import Annotator
 model = tf.keras.models.load_model("Intrusion_detection_model.h5")
 
 # Twilio credentials
-account_sid = 'AC921ab6089d395c7954ea46c25850741a'
-auth_token = '4f49cdad7a8392115ffd1fa1bd4c747c'
-twilio_phone_number = '+12512209339'
-recipient_phone_number = '+917592972157'
+account_sid = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+auth_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+twilio_phone_number = '+1XXXXXXXXX'
+recipient_phone_number = '+91XXXXXXXXX'
 
 # Initialize Twilio client
 client = Client(account_sid, auth_token)
