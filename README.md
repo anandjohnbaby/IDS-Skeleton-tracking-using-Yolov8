@@ -2,7 +2,7 @@
 
 ![W1](https://github.com/anandjohnbaby/IDS-Skeleton-tracking-using-Yolov8/assets/108878068/eb5bad53-4ef8-4410-a0d3-b7f948998b75)
 # 📝 Description
-- Uses **YOLOv8** for object detection.
+- Uses **YOLOv8** for object detection and skeleton tracking.
 - Integrates with Twilio for SMS notifications.
 - Runs inference on uploaded videos to detect intruders.
 - Displays annotated frames with detected keypoints in real-time using Streamlit.
