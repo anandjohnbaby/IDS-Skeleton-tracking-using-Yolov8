@@ -27,4 +27,6 @@
 - Windows
 
 # 📊Dataset
-I have created a custom dataset by collecting videos from different sources. This dataset comprises 48 intrusion videos and 32 normal videos. Using YOLOv8 and OpenCv, I extracted keypoints from each frame of the videos and stored them in a CSV file. Additionally, preprocessing steps were applied, including the removal of NaN values and frames with insufficient coordinates. Feature selection/extraction techniques were also employed to enhance the dataset's quality and relevance for further analysis.
+
+#Contact
+Email : anandjohnbabyv4@gmail.com
