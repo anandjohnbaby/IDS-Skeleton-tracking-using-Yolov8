@@ -1,4 +1,4 @@
-# 🎥Intrusion-Detection-Using-Yolov8
+# 🎥 Intrusion-Detection-Using-Yolov8
 
 ![W1](https://github.com/anandjohnbaby/IDS-Skeleton-tracking-using-Yolov8/assets/108878068/eb5bad53-4ef8-4410-a0d3-b7f948998b75)
 # 📝 Description
